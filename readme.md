@@ -4,6 +4,7 @@ composer install
 
 # .env
 create .env file with right credentials conforming to the name of your database
+
 touch .env
 
 # Run Migrations
