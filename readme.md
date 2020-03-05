@@ -2,7 +2,8 @@ Quick Start
 # Install Dependencies
 composer install
 
-# create .env file with right credentials conforming to the name of your database
+# .env
+create .env file with right credentials conforming to the name of your database
 touch .env
 
 # Run Migrations
